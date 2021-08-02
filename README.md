@@ -3,7 +3,7 @@
 - 🏫 Cursando o 2º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
 - 🔭 Hoje trabalho com front-end
 - 🌱 Atualmente estudando JavaScript | UX/UI
-- 📫 Contate-me no email: luizjurazek@gmail.com
+
 
 
 <div>
