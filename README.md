@@ -2,7 +2,7 @@
 
 - 🏫 Cursando o 2º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
 - 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando JavaScript | UX/UI
+- 🌱 Atualmente estudando JavaScript | UI/UX
 
 
 
