@@ -1,8 +1,7 @@
 ## Olá todo mundo, me chamo Luiz Jurazek 😁
 
 - 🏫 Cursando o 2º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
-- 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando JavaScript 
+- 🌱 Atualmente estudando Javascript 
 
 
 
