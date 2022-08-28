@@ -3,7 +3,6 @@
 ## Olá, me chamo Luiz Jurazek 😁
 
 - 🏫 Cursando o 2º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
-- 🌱 Atualmente estudando PHP
 
 
 
