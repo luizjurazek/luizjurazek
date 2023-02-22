@@ -1,16 +1,17 @@
 
-![GifMario](https://user-images.githubusercontent.com/78305170/140383269-05417a13-57bc-4796-aad9-716bce51c897.gif)
+<!-- ![GifMario](https://user-images.githubusercontent.com/78305170/140383269-05417a13-57bc-4796-aad9-716bce51c897.gif) -->
 ## Olá, me chamo Luiz Jurazek 😁
 
 - 🏫 Cursando o 5º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
+- ⚙ Analista SEO JR III
+- 👨🏾‍💻 Desenvolvedor Back-end Node JS 
 
 
-
-<!-- <div>
+<div>
   <a href="beacons.page/luizjurazek">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luizjurazek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjurazek&layout=compact&langs_count=7&theme=algolia"/>
-</div> -->
+</div> 
 
   ##
   
