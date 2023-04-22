@@ -4,7 +4,7 @@
 
 - 🏫 Cursando o 5º Semestre de Análise e desenvolvimento de sistemas - Unicesumar
 - ⚙ Analista SEO JR III
-- 👨🏾‍💻 Desenvolvedor Back-end Node JS 
+- 👨🏾‍💻 Desenvolvedor Web 
 
 
 <div>
