@@ -2,9 +2,8 @@
 <!-- ![GifMario](https://user-images.githubusercontent.com/78305170/140383269-05417a13-57bc-4796-aad9-716bce51c897.gif) -->
 ## Olá, me chamo Luiz Jurazek 😁
 
+- 👨🏾‍💻 Desenvolvedor Web Full Stack JR 
 - 🏫 Análise e desenvolvimento de sistemas - Unicesumar
-- ⚙  Analista SEO PLENO I
-- 👨🏾‍💻 Desenvolvedor Web 
 
 
 <div>
